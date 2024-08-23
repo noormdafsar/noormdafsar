@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/noormdafsar/noormdafsar/main/github-header-image.png)
+![MasterHead]([https://raw.githubusercontent.com/noormdafsar/noormdafsar/main/github-header-image.png](https://media.licdn.com/dms/image/v2/D4D12AQHkJNWKG5d22A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687767682423?e=1729728000&v=beta&t=QSuqIG6U5UXM9b8Ky16uBl6jsYyukJvHhHdqTGQJFMs))
 <h1 align="center">Hi 👋, I'm Nooruddin Md Afsar</h1>
 <h3 align="center">A passionate Full-Stack(MERN) developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
