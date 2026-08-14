@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noormdafsar" alt="noormdafsar" /></a> </p>
 
-- 🔭 I’m currently building DevTinder and StudyNotion Web Application [DevTinder](https://github.com/noormdafsar/DevTinder_Backend) and [StudyNotion](https://github.com/noormdafsar/Study_Notion_Full-Stack)
+- 🔭 I’m currently building Firmone(Smart consultancy management system) and Estylr Application [Firmone](https://firmone.in)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 My learning is always **ONN**
 
 - 👨‍💻 All of my projects are available at [https://nooruddin-portfolio.netlify.app/](https://nooruddin-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN and MEAN Stack**
 
 - 📫 How to reach me **mdafsar786noor@gmail.com**
 
